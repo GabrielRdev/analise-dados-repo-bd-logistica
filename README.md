@@ -33,9 +33,3 @@ O projeto está dividido em:
 1. **Abrir o Notebook no Google Colab**: Clique no link abaixo para abrir o notebook diretamente no Google Colab:
    [Abrir no Google Colab][(https://colab.research.google.com/drive/1Q5VppeAhTqz1sqq732usRLHuRdTlovV2)]
 
-2. **Carregar os Dados**: Se o projeto incluir dados locais, faça upload dos arquivos necessários para o Colab usando o comando `files.upload()` ou conecte-se a um repositório no Google Drive.
-
-   ```python
-   from google.colab import files
-   uploaded = files.upload()
-
