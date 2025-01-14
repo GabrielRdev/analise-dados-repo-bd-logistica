@@ -4,7 +4,7 @@ Este projeto utiliza o Google Colab para analisar os dados de entregas de produt
 
 ## Contexto
 
-Determinada empresa está com alguns problemas com seus motoristas, os produtos e suas entregas. Além disso essa empresa não possui informações relevantes que possa auxilia-la a resolver este problema.
+Determinada empresa está com alguns problemas, com seus motoristas, os produtos e suas entregas. Além disso essa empresa não possui informações relevantes que possam ajuda-la a resolver este problema.
 Com isso, algumas perguntas foram feitas de acordo com a base de dados fornecida para facilitar a análise de dados. E algumas dessas perguntas são:
 
  - Qual é o total de faturamento?
@@ -16,13 +16,13 @@ Com isso, algumas perguntas foram feitas de acordo com a base de dados fornecida
  - Quais motoristas atrasam mais a entrega dos produtos?
 
 Com isso, o objetivo deste projeto é verificar insights para auxiliar o Gestor da empresa a tomar uma decisão acertiva, 
-baseada em análise de dados.
+baseada em análise e visualização dos dados.
 
 ## Descrição
 
 O projeto está dividido em:
 - Analisar e transformar os dados com código Python e suas bibliotecas; e
-- Visualizações das respostas em formato de tabelo e gráfico.
+- Visualizações dos dados em formato de tabelo e gráfico.
 
 ## Tecnologias
 
