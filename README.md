@@ -31,5 +31,19 @@ O projeto está dividido em:
 ## Como Rodar o Projeto no Google Colab
 
 1. **Abrir o Notebook no Google Colab**: Clique no link abaixo para abrir o notebook diretamente no Google Colab:
-   [Abrir no Google Colab][(https://colab.research.google.com/drive/1Q5VppeAhTqz1sqq732usRLHuRdTlovV2)]
+   [Abrir no Google Colab] (https://colab.research.google.com/drive/1Q5VppeAhTqz1sqq732usRLHuRdTlovV2
 
+2.  **Executar as Células**: Clique em "Runtime" > "Run all" para rodar o código do notebook. Você pode rodar as células uma por uma clicando em cada célula e pressionando Shift + Enter.
+   
+3.  **Verifique os Resultados**: O notebook irá gerar gráficos e modelos preditivos, exibidos diretamente no Colab.
+
+## Contribuindo 
+
+Contribuições são bem-vindas! 
+Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades.Para isso, por favor:
+
+- Faça um fork do repositório
+- Crie uma branch para a sua modificação (git checkout -b nova-funcionalidade)
+- Commit suas alterações (git commit -am 'Adicionando nova funcionalidade')
+- Envie para o repositório original (git push origin nova-funcionalidade)
+- Abra um pull request
