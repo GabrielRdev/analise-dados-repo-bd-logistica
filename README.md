@@ -1,7 +1,11 @@
 # Análise de Entrega de Produtos no Google Colab
 
 Este projeto utiliza o Google Colab para analisar os dados de entregas de produtos de uma determinada empresa.
-E algumas perguntas foram feitas de acordo com a base de dados fornecida para facilitar a análise em si. E algumas dessas perguntas são:
+
+## Contexto
+
+Determinada empresa está com alguns problemas com seus motoristas, os produtos e suas entregas. Além disso essa empresa não possui informações relevantes que possa auxilia-la a resolver este problema.
+Com isso, algumas perguntas foram feitas de acordo com a base de dados fornecida para facilitar a análise em si. E algumas dessas perguntas são:
 
  - Qual é o total de faturamento?
  - Qual é a quantidade de motoristas?
